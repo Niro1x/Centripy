@@ -1,0 +1,75 @@
+
+### *Shape 2: Rectangle*
+- Vertex 1: -50,-25
+- Vertex 2: 50,-25
+- Vertex 3: 50,75
+- Vertex 4: -50,75
+
+Single input string:
+
+-50,-25 50,-25 50,75 -50,75
+
+
+---
+
+### *Shape 3: Irregular Hexagon*
+- Vertex 1: -50,0
+- Vertex 2: -30,50
+- Vertex 3: 30,50
+- Vertex 4: 50,0
+- Vertex 5: 30,-40
+- Vertex 6: -30,-40
+
+Single input string:
+
+-50,0 -30,50 30,50 50,0 30,-40 -30,-40
+
+
+---
+
+### *Shape 4: Irregular Pentagon*
+- Vertex 1: -60,0
+- Vertex 2: -30,60
+- Vertex 3: 30,40
+- Vertex 4: 60,-10
+- Vertex 5: 0,-50
+
+Single input string:
+
+-60,0 -30,60 30,40 60,-10 0,-50
+
+
+---
+
+### *Shape 5: Irregular Octagon*
+- Vertex 1: -70,20
+- Vertex 2: -50,50
+- Vertex 3: 0,70
+- Vertex 4: 50,50
+- Vertex 5: 70,20
+- Vertex 6: 50,-30
+- Vertex 7: 0,-50
+- Vertex 8: -50,-30
+
+Single input string:
+
+-70,20 -50,50 0,70 50,50 70,20 50,-30 0,-50 -50,-30
+
+
+---
+
+### *Shape 6: Star*
+- Vertex 1: 0,50
+- Vertex 2: 20,15
+- Vertex 3: 50,15
+- Vertex 4: 25,-5
+- Vertex 5: 35,-50
+- Vertex 6: 0,-25
+- Vertex 7: -35,-50
+- Vertex 8: -25,-5
+- Vertex 9: -50,15
+- Vertex 10: -20,15
+
+Single input string:
+
+0,50 20,15 50,15 25,-5 35,-50 0,-25 -35,-50 -25,-5 -50,15 -20,15
